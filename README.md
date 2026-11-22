@@ -48,6 +48,6 @@ Analyze multiple academic and behavioral factors influencing student performance
 | Member       | Name             | Register Number |
 | :----------- | :--------------- | :-------------- |
 | **Member 1** | Ahmed Shariff.A  | 311824102302    |
-| **Member 2** | Mohamed Sahith   | 311824102006    |
+| **Member 2** | Mohamed Sahith   | 311824102039    |
 | **Member 3** | Mohammed Riyaz   | 311824102045    |
 | **Member 4** | Ahamed Shariff.K | 311824102006    |
