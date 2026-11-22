@@ -84,7 +84,7 @@ st.markdown("Interactive Multiple Linear Regression Predictor & Analytical Dashb
 with st.expander("👥 Project Team Members", expanded=False):
     st.table([
         {"Member": "Member 1", "Name": "Ahmed Shariff.A", "Register Number": "311824102302"},
-        {"Member": "Member 2", "Name": "Mohamed Sahith", "Register Number": "311824102006"},
+        {"Member": "Member 2", "Name": "Mohamed Sahith", "Register Number": "311824102039"},
         {"Member": "Member 3", "Name": "Mohammed Riyaz", "Register Number": "311824102045"},
         {"Member": "Member 4", "Name": "Ahamed Shariff.K", "Register Number": "311824102006"},
     ])
